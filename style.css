@@ -1,0 +1,20 @@
+body{
+    text-align:center;
+   background-color:#00FF49; 
+  }
+  #album
+  {
+    width:450px;
+    border-radius:30px;
+  }
+  button{
+    background-color:#8700FF;
+   color:white;
+    width:200px;
+    height:35px;
+    border-radius:30px;
+     
+  }
+  p{
+     font-size: 40px;
+  }
